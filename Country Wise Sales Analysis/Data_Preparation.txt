@@ -1,0 +1,18 @@
+DATA PREPARATION:
+
+I used 3 datasets each of different types. 
+The sales is a combination of 4 years of sales data separated in 4 csv files.
+The country is an excel file contains the country and country code.
+The products is a text file which contains Id, category and products.
+
+If you see the data I made in my pbix file, it also contains 3 more tables which I made of my own for more detail visualization.
+The location table contains location id, location and country code.
+The sales_new table contains the sales data but with new relationships and references to the other tables.
+The other table is made using the data view option which is on the left side of power bi which is under the report view.
+The date table contains weekday name, weekend name, month name, day, date,year and whether it is weekend or not. 
+
+These data will be useful for getting more detail and interactive dashboards.
+
+If you still have any doubts feel free to contact me:
+Mobile Number:7680869699
+Email:kancharla.naveenkumar2020@vitstudent.ac.in 
